@@ -11,10 +11,6 @@
 ┌─[tihi][tihi-artix][~/avatao]
 └─▪ ./random.o 
 ??????????!
-┌─[tihi][tihi-artix][~/avatao]
-└─▪ nano random.c
-┌─[tihi][tihi-artix][~/avatao]
-└─▪ 
 */
 
 #include <stdio.h>
